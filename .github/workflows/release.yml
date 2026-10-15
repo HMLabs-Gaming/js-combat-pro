@@ -13,7 +13,6 @@ jobs:
     with:
       project-slug: js-combat-pro
       modrinth-project-id: Dzmlr2F5
-      curseforge-project-id: "1746292"
       use-java: false
       use-go: true
       build-command: |
