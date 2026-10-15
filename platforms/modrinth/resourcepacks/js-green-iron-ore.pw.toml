@@ -1,0 +1,13 @@
+name = "JS Green Iron Ore"
+filename = "Greenscreen Iron Ore.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5MAxfr8R/versions/3kC9Leko/Greenscreen%20Iron%20Ore.zip"
+hash-format = "sha512"
+hash = "2dda1540d9a7ce955665d409d842331901e6d481bdda1159004463ca586cfa92ea22efe413dec0f1e2ba529285c575dcdf06cce2ec198c5e8de02aaa2fa7150e"
+
+[update]
+[update.modrinth]
+mod-id = "5MAxfr8R"
+version = "3kC9Leko"

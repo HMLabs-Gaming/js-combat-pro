@@ -1,0 +1,13 @@
+name = "JS Green Diamond Ore"
+filename = "Greenscreen Diamond Ore.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff60b0d8fa438e243d5960cef2c7e4ff36895680"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8831357
+project-id = 1686185

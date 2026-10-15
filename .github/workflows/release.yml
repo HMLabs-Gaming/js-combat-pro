@@ -1,0 +1,25 @@
+# Caller example: copy to the consuming modpack repository at .github/workflows/release.yml.
+name: Modpack Release
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    uses: HMLabs-Gaming/release-workflows/.github/workflows/release-artifacts.yml@main
+    with:
+      project-slug: js-combat-pro
+      modrinth-project-id: Dzmlr2F5
+      use-java: false
+      use-go: true
+      build-command: |
+        # Keep Packwiz export versions aligned with the published GitHub Release tag.
+        sed -i "s/^version = .*/version = \"${GITHUB_REF_NAME}\"/" platforms/modrinth/pack.toml platforms/curseforge/pack.toml
+        go install github.com/packwiz/packwiz@latest
+        (cd platforms/modrinth && packwiz modrinth export)
+        (cd platforms/curseforge && packwiz curseforge export)
+      artifacts-json: '[{"path":"platforms/modrinth/JS Combat Pro-{version}.mrpack"},{"path":"platforms/curseforge/JS Combat Pro-{version}.zip"}]'
+    secrets: inherit

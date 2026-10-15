@@ -1,0 +1,13 @@
+name = "Marlow Crystal Optimizer"
+filename = "marlows-crystal-optimizer-2.0.0+mc26.1-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31c04918aedf6879d6ad10cd8307b644ab67ae44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9090254
+project-id = 1554587

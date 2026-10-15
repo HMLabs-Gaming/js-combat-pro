@@ -1,0 +1,13 @@
+name = "Gamma Utils (Fullbright)"
+filename = "Gamma-Utils-Fabric-3.2.0+mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab3537fc6630ed69e7835e786c6536aff34f1b36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8890727
+project-id = 492295

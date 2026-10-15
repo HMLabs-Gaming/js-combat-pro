@@ -1,0 +1,13 @@
+name = "JS Green Diamond Ore"
+filename = "Greenscreen Diamond Ore.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1SwGfzf/versions/ONZQhOpC/Greenscreen%20Diamond%20Ore.zip"
+hash-format = "sha512"
+hash = "35bca32f5929421d949cb0c1ad6e8d02dbf391a0804b1eab46538925efdd558bcbd56fd08039298cfc634d4fe865ca2bd99a2182b8647a0f67e25e0b37f09c31"
+
+[update]
+[update.modrinth]
+mod-id = "Y1SwGfzf"
+version = "ONZQhOpC"

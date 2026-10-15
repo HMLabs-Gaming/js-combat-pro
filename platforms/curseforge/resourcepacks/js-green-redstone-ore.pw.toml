@@ -1,0 +1,13 @@
+name = "JS Green Redstone Ore"
+filename = "Greenscreen Redstone Ore.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OGW3adGA/versions/NAwxwHBj/Greenscreen%20Redstone%20Ore.zip"
+hash-format = "sha512"
+hash = "a660c6c0395f39576ef04c830d9528744a2adf69b396d305f9d4612a5bfa5abda994c55492bb55a7e7a6db39819c7d21d9b263f65833b71a49ac9803ff8911d2"
+
+[update]
+[update.modrinth]
+mod-id = "OGW3adGA"
+version = "NAwxwHBj"

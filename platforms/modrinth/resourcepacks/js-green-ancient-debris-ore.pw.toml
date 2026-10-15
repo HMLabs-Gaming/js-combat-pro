@@ -1,0 +1,13 @@
+name = "JS Green Ancient Debris Ore"
+filename = "Greenscreen Ancient Debris Ore.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAWlZOx4/versions/rU1oOddJ/Greenscreen%20Ancient%20Debris%20Ore.zip"
+hash-format = "sha512"
+hash = "9926b74be16fb4dcae2d4bc2c060d2bd271e2773f311d2cb9000bd60f5f2e29ef91b00d106b63babbcde9df1be05967eed18bac2f5e351c7dc23412fa1789264"
+
+[update]
+[update.modrinth]
+mod-id = "iAWlZOx4"
+version = "rU1oOddJ"

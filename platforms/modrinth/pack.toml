@@ -1,0 +1,16 @@
+name = "JS Combat Pro"
+author = "henrymmey"
+version = "26.3-1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "18b8a7760a34a6eb2d617af45054b1cf96532f07a95846cee65b27a00f2aad8c"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
+
+[options]
+acceptable-game-versions = ["26.2"]
