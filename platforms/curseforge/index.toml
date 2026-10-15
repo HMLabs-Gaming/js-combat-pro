@@ -6,7 +6,7 @@ hash = "fd5c63bd0bc62403d1f47fd9315af36c091563202195bbe068e5993d7a35dad5"
 
 [[files]]
 file = "README.md"
-hash = "7554d1f88e21e57dbdc4e3e34c42a46bf6bfce591b9f376255fac5e21cbaa69b"
+hash = "e18e6db82985225c8bd52e8e7504c61821d33b5c96871a95912547e5235b0330"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
@@ -188,23 +188,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "61d973f8bcac87ddc0a5ed73f91dc00673bcd8fa38cd0aa018266487740fee63"
-
-[[files]]
-file = "resourcepacks/js-green-ancient-debris-ore.pw.toml"
-hash = "d036f327c64d5f9e120db0f70be7fc140aaed9040db0619573676c9303680811"
-metafile = true
-
-[[files]]
-file = "resourcepacks/js-green-diamond-ore.pw.toml"
-hash = "c235cf1667b481f30d3ecc2b8dcc8eee6df48aad40388a5de323f3b29b294662"
-metafile = true
-
-[[files]]
-file = "resourcepacks/js-green-iron-ore.pw.toml"
-hash = "cb1735d68e2ad54886e0e7ae0521ece604b058f24f20b42d336636e87c0c9dd2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/js-green-redstone-ore.pw.toml"
-hash = "344934ba6705e0e507c5f10ebae3fc5f5a101d8f649a4bd00763f615181bae96"
-metafile = true
