@@ -13,7 +13,7 @@ The pack is designed to comply with the regulations of most major PvP networks. 
 
 - **Peak Performance:** Built on the latest Fabric loader and optimized with **Sodium, Lithium, and more** to ensure ultra-high FPS and minimal input lag - essential for landing every hit.
 - **Competitive HUD:** Includes vital on-screen info like **Armor Status, Potion Effects, and Totems**, allowing you to track your resources without losing focus on the fight.
-- **Enhanced Visibility:** Featuring mods like **No Fog** and **Fullbright** to ensure you spot opponents instantly, regardless of lighting or weather conditions.
+- **Enhanced Visibility:** Featuring **Fullbright** and other visual improvements to ensure you spot opponents instantly, regardless of lighting or weather conditions.
 - **Combat Fluidity:** Small tweaks like **reduced fire overlays** keep your view clear during intense, high-action encounters.
 - **Fair Play:** No gameplay-altering cheats. This pack focuses on optimizing your client's efficiency and your own skill potential while staying within the vanilla mechanics.
 

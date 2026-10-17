@@ -6,11 +6,7 @@ hash = "fd5c63bd0bc62403d1f47fd9315af36c091563202195bbe068e5993d7a35dad5"
 
 [[files]]
 file = "README.md"
-hash = "e18e6db82985225c8bd52e8e7504c61821d33b5c96871a95912547e5235b0330"
-
-[[files]]
-file = "config/dynamiccrosshair.json5"
-hash = "c6fde993751e146314ac5f94b93330a5deb916ed50cce5bcf6e840a835caa851"
+hash = "de8d8203ace4785efd0d2b183712c1cc6f02cbdbd25484a546dadcdd1fe606fd"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -37,17 +33,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "184a823d9843d2e60bf7313bc7b6ffce4e577dee936accd8c0e456b01e39d1e0"
+hash = "baac4d632f74cc1bcf3350b05361b5c751b27feecc823bd9375d4053209c64d7"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "ec6b05b3441e1c042faf73aa0416b60ecd83c237857776eeb40e666c440ca111"
-metafile = true
-
-[[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "b0a311bbc0434c29143d69bbc0a9906e85b913abe79d3a39907a385e0af4c6bd"
 metafile = true
 
 [[files]]
@@ -62,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2468a029ed5873440116000c8e2e64c4e32f76eb9493b9e705d9adbef1b10773"
+hash = "cd080dc9b375472550624a33a8a4c4f6e2b6128ec9344effd50cae90b92eb4ad"
 metafile = true
 
 [[files]]
@@ -72,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2877c92939db04cc8c107a936971fdb82da7d159ab69451563df932d53c0b66a"
+hash = "5321d13b6ae98db0638cd18d214bc5bfa37b1bd75e42d8df7d417368bbbe8149"
 metafile = true
 
 [[files]]
@@ -82,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "7343dfad9f0b946a476b2f6285d7794be2feb3333fec5337f9649f50e3485c38"
+hash = "cef9e2d4da086f6e8d1ef2d3c032dcab3553f5dace0276abc79852a7fe4eed9f"
 metafile = true
 
 [[files]]
@@ -92,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a3ad8f11fdbbbf8bb142d5371cb07b8d51df8c57744550381ff6cf24ef654ae1"
+hash = "e8db529387e9971974bb74ada3d025196de9c5db7f12b2272b119475cac88659"
 metafile = true
 
 [[files]]
@@ -107,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e3963a3ecbd7a89265d8441d1bd9def9b910f5e14ad8a6030d86e15ccf16d3bd"
+hash = "ff15b977981713d110ea997f00b7606fb26ea760ae86324915ff02fed80e3688"
 metafile = true
 
 [[files]]
@@ -122,12 +113,12 @@ metafile = true
 
 [[files]]
 file = "mods/potioncounter.pw.toml"
-hash = "e7db8b5a42545e35ebf6b60056c59c37b51aba823586c559c3bfd3cb5eee1513"
+hash = "d41b07e4c43ceffd38901847684de1643e5bdaf1929a63f24643648e1e625f4c"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "90d2c608145720a3c146445b01421f595be8cae45e011bc159b7c9d3cbf986eb"
+hash = "7a48224c7585d83af423d7e2052be89f07de16909afffb85a590019162981904"
 metafile = true
 
 [[files]]
@@ -147,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3ab239835fcf0110ff10070aeab382334b53401b2288379283e5bf451b28fd86"
+hash = "f4b1f7a5d40f55c9df0ddadb1704aa316136dff957c50189c88cb107aff0d83a"
 metafile = true
 
 [[files]]
@@ -157,12 +148,12 @@ metafile = true
 
 [[files]]
 file = "mods/tiertagger.pw.toml"
-hash = "efab23af96ea6f30acb859897eb226cb59bee47cc28c1bd9b91439f925244344"
+hash = "3f3ffa4a48d52e905496cc8f7b78929db17d36ad7b75c37e68897ee6423a6650"
 metafile = true
 
 [[files]]
 file = "mods/totemcounter.pw.toml"
-hash = "aa749e66635daf21318439c15608171cd2634d71187e7f078ca5b45bced1dd7e"
+hash = "9d1d9ca57cdd4374bdfed1ea683f7e2f1e41b1ecc98a35c65372e1782d1660b2"
 metafile = true
 
 [[files]]
@@ -172,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/ukus-armor-hud.pw.toml"
-hash = "1eb961c647d1b1df02cbd81a49748c969b6a57e29d77624cbef1623a62a0e699"
+hash = "71dfb9088e3dae94817a0af6eb0f518286718ed93036758cdf35b3ca338052cc"
 metafile = true
 
 [[files]]
@@ -182,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "062882eded40f8e8af98949905322c127c9b721cd7c35b6349c9e92e4bc45e49"
+hash = "e7cdaffa8a9f2edbce1de25ce55387680dfaac7ef6838d865811ec35c818e487"
 metafile = true
 
 [[files]]

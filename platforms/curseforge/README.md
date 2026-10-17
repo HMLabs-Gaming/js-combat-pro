@@ -5,8 +5,6 @@
 
 This modpack is engineered to give you the competitive edge in Minecraft PvP through maximum performance, reduced latency, and enhanced battlefield awareness.
 
-No Fog is included in the Modrinth package only. It is omitted from the CurseForge package because its ARR license does not permit redistribution there without additional permission.
-
 The pack is designed to comply with the regulations of most major PvP networks. However, it remains your responsibility to verify the permitted mods for each specific server.
 
 ---

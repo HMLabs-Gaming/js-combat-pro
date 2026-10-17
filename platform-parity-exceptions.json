@@ -8,11 +8,5 @@
       "modrinth": "Shulker Box Tooltip",
       "curseforge": "Shulker Box Tooltip [Fabric/Forge/NeoForge]"
     }
-  ],
-  "platformOnly": [
-    {
-      "platform": "modrinth",
-      "name": "No Fog"
-    }
   ]
 }
